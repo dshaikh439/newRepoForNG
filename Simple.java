@@ -4,6 +4,7 @@ public class Simple
   {
     System.out.println("Hi....");
         System.out.println("Hello....");
+    int a =10;
 
   
   }
